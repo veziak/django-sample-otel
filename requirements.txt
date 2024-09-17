@@ -6,3 +6,4 @@ opentelemetry-instrumentation-wsgi==0.48b0
 opentelemetry-distro==0.48b0
 opentelemetry-semantic-conventions==0.48b0
 django-debug-toolbar
+psycopg2
