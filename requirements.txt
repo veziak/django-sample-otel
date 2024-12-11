@@ -1,5 +1,5 @@
 Django==5.1.4
-opentelemetry-sdk==1.28.2
+opentelemetry-sdk==1.29.0
 opentelemetry-exporter-otlp==1.29.0
 opentelemetry-instrumentation-django==0.48b0
 opentelemetry-instrumentation-wsgi==0.48b0
