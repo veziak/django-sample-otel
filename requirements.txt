@@ -1,4 +1,4 @@
-Django==5.2.4
+Django==5.2.5
 opentelemetry-sdk==1.36.0
 opentelemetry-exporter-otlp==1.36.0
 opentelemetry-instrumentation-django==0.48b0
